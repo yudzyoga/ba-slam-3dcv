@@ -1,2 +1,2 @@
 # ba-slam-3dcv
-Implementation of SLAM and Bundle Adjustment from scratch as part of Computer Graphics lecture @ Saarland University
+Implementation of SLAM and Bundle Adjustment from scratch as part of 3D Computer Vision lecture @ Saarland University
