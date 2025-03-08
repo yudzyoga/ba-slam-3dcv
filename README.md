@@ -1,3 +1,5 @@
+![Bundle Adjustment Box2 Case](./media/box2.gif)
+
 To run this code, there are several notebook sequences to follow:
 0. (Optional) extract dataset correspondence feature in correspondences_generator.ipynb
 1. Preprocess data to label unique points in preprocessing.ipynb
